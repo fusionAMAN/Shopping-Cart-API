@@ -183,5 +183,5 @@ http://localhost:3000/cart/:itemID
 ---
 
 ## Status: 🟢 COMPLETE - Ready for Evaluation
-## Repository: https://github.com/fusionAMAN/Shopping-Cart-API.git
-## Contact: [40guptaaman@gmail.com]
+#### Repository: https://github.com/fusionAMAN/Shopping-Cart-API.git
+#### Contact: [40guptaaman@gmail.com]
